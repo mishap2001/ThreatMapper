@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ###############################################################
-# Vulnerabilities Enumeration Tool
+# Threat Mapper
 # Author: Michael Pritsert
 # GitHub: https://github.com/mishap2001
 # LinkedIn: https://www.linkedin.com/in/michael-pritsert-8168bb38a
